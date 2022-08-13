@@ -96,11 +96,11 @@ project
 
 * [ ] Deve identificar o que está faltando no arquivo `config/terminal.js`
 
-* [ ] Deve implementar a internacionalização no arquivo `entity/Income.js`
+* [x] Deve implementar a internacionalização no arquivo `entity/Income.js`
 
-* [ ] Deve implementar os métodos existentes em `repository/IncomeRepository`, assegurando que os testes em `IncomeRepository.test.js` estejam funcionando.
+* [x] Deve implementar os métodos existentes em `repository/IncomeRepository`, assegurando que os testes em `IncomeRepository.test.js` estejam funcionando.
 
-* [ ] Deve implementar os métodos existentes em `service/IncomeService.js`, assegurando que os testes em `IncomeService.test.js` estejam funcionando.
+* [x] Deve implementar os métodos existentes em `service/IncomeService.js`, assegurando que os testes em `IncomeService.test.js` estejam funcionando.
 
 * [ ] Deve criar novos métodos e organizar a estrutura de criação do terminal em `terminal.js`
 
